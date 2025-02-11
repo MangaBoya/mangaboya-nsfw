@@ -1,4 +1,6 @@
 # MangaBoya - Possibly the Best Manga App You've Ever Used!
+### [中文](https://github.com/MangaBoya/mangaboya-nsfw/edit/main/README-zh.md) | [日本語](https://github.com/MangaBoya/mangaboya-nsfw/edit/main/README-ja.md)
+ 
 ### Manga & Webtoons & Comics & NSFW! 
 
 ### Download：https://github.com/MangaBoya/mangaboya-nsfw/releases
