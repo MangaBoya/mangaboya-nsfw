@@ -1,9 +1,8 @@
 # MangaBoya - 可能是你用过最好的漫画APP
 ## 免费看全网漫画，国漫/日漫/韩漫/h漫，扛把子嘎嘎乱杀，不信你试试？
 
-官方下载地址：[点击下载](https://github.com/MangaBoya/mangaboya-nsfw/releases)
+### [点击下载](https://github.com/MangaBoya/mangaboya-nsfw/releases)
 
-直连分流地址（下载后解压出apk即可安装）：[点击下载](https://boya.lanzouv.com/iQeN22no2gle)
 
 ![image](https://github.com/user-attachments/assets/a9077cd2-e59a-425b-9bc6-27eb4fcbdf05)
 
