@@ -2,6 +2,7 @@
 ### [中文](https://github.com/MangaBoya/mangaboya-nsfw/blob/main/README-zh.md) | [日本語](https://github.com/MangaBoya/mangaboya-nsfw/blob/main/README-ja.md)
  
 ### Manga & Webtoons & Comics & NSFW! 
+### IMPORTANT: NSFW Content is only available in the GitHub release, not included in the App Store and Play Store versions.
 
 ### [Download](https://github.com/MangaBoya/mangaboya-nsfw/releases)
 
